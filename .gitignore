@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*venv*/
+RdAi/
+
+# C++ / CMake / Build
+build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Fichiers binaires et exécutables (générés localement)
+*.so
+*.o
+tth_test
