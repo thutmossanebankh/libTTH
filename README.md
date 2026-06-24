@@ -115,3 +115,7 @@ transformed_points = system.apply(points, theta)
 print(transformed_points[:3])
 
 ```
+
+**Author:** Salvador-Jose Mountanta Famorosa
+
+**License:** Apache 2.0
